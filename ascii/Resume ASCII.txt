@@ -1,0 +1,102 @@
+
+Elwin Ha -  B. ASc, M. Design
+
+- - CONTACT - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Portfolio ----: elwinha.com
+Email --------: elwinha@gmail.com
+Phone Number -: +1 (416) 835 7643
+
+
+- - SKILLS  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+* Design       * Engineering
+
+Sketch         MatLab
+Principle      MicroRobotics
+Illustrator    Photonics
+InDesign       Java/C#
+Flash/AS3      Microfabrication/MEMS
+SolidWorks     AFM/SEM
+Keynote
+HTML/CSS
+JavaScript
+
+
+- - CLIENTS, DESIGN STRATEGY CONSULTING - - - - - - - - - - - - - - - - - - - - -
+
+* Somfy
+Designed new product ecosystem of connect products for Somfy. Key research
+considerations include Chinese demography, IoT technology ecosystem and APIS,
+cognitive psychology, and product design.
+
+* Starlite Ltd
+Designed offshoot child brand of Starlite by repurposing CTP aluminum plates.
+Key research considerations include aluminum material science, manufacturing 
+technologies, and product design.
+
+* Vibram
+Designed marketing campaign and strategy for Vibram to penetrate Chinese
+market. Key research considerations included Chinese demography, probepackages, app prototyping, and brand and graphic design.
+
+* Hong Kong Recycles 
+Designed and developed a new cost effective business strategy and overhauled
+logistics system through innovative mobile app and systems prototyping.
+
+
+- - EXPERIENCE  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+* Researcher - Photonics and Statistical Modeling
+* * Hong Kong Polytechnic University
+* * 2012, 2013, 2014, 2015
+
+Designed statistical failure rate model of a cycle slip offset estimation 
+algorithm and analyzed existing carrier phase and frequency offset estimation 
+algorithms for QPSK and 16 – QAM modulation schemes under the supervision of 
+Professor Alan P.T. Lau.
+
+
+* Researcher - Photonics and Nanomaterials
+* * Denmark Technical University
+* * 2012 fall, 2014 summer
+
+Designed a low cost gradient refractive index antireflective substrate imprinted
+by black silicon passivated by mesoporous silica under the supervision of 
+Professor Anders Kristensen.
+
+
+* Web UI Developer Intern
+* * Genesys Telecommunications Lab
+* * 2011
+
+Developed front-end service, and graphical user interface modules for a web 
+based multi-tenant, hierarchical management system.
+
+
+* Evil Genius
+* * Top Hat Inc.
+* * 2010 
+
+Designed and developed mission critical Flash and JavaScript games/demos based on
+a number of university courses such as calculus, biology, organic chemistry, and 
+digital design.
+
+
+- - EDUCATION - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+* M. Design -  Distinction, 2016
+* * Hong Kong Polytechnic University
+* * International Design and Business Management
+
+* Honours BASc, 2014
+* * University of Waterloo
+* * Nanotechnology Engineering
+
+
+- - AWARDS  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+* MIT Kickstart Hackathon, Summer 2016
+* *  1st Place
+
+* M. Design Outstanding Student, 2015/2016 School Year
+* * Hong Kong Polytechnic University
